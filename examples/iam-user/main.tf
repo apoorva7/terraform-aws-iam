@@ -1,3 +1,4 @@
+#This file is for adding a new IAM user to the AWS account
 provider "aws" {
   region = "eu-west-1"
 }
